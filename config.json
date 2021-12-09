@@ -1,0 +1,28 @@
+{
+    "tts": {
+        "service": "gTTS",
+        "engines": [
+            "aws",
+            "azure",
+            "gTTS"
+        ],
+        "generate_slide": true,
+        "output_format": "mp3",
+        "aws": {
+            "voice_id": "Raveena"
+        },
+        "azure": {},
+        "gTTS": {
+            "language_code":"en-IN"
+        }
+    },
+    "audio": {},
+    "video": {
+        "width": 1980,
+        "height": 1080
+    },
+    "output": {
+        "path": "./output.mp4"
+    },
+    "debug": true
+}

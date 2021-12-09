@@ -1,0 +1,16 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pillow = "*"
+azure-cognitiveservices-speech = "*"
+boto3 = "*"
+google-cloud-texttospeech = "*"
+
+[dev-packages]
+autopep8 = "*"
+
+[requires]
+python_version = "3.9"

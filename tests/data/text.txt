@@ -1,0 +1,19 @@
+Your session accuracy of 69% is better than the Global Accuracy of 57%.
+On average, you took 4 seconds less than other students to solve each question.
+You spent an average of 1 minute 4 seconds on the 10 questions that were incorrect.
+You skipped 4 questions, of which 2 questions had a global accuracy of more than 85%.
+
+Your overall accuracy in Maths is 72% which is better than the Global Accuracy of 53%.
+We recommend that you focus on your least covered chapters like Linear Equations in Two Variables and Introduction to Euclid's Geometry to improve your performance further.
+
+Good job! Your average accuracy for Maths is trending upwards. You can aim for 82% accuracy by December 2021.
+
+You spent roughly 14 minutes in solving the first 8 questions while the global average is less than 10 minutes. It is a better strategy to pick easier shorter questions early during the test to maximize your performance.
+You answered most of the questions sequentially. Instead, you should pick your stronger chapters like Probability and Coordinate Geometry first. This will help you to gain confidence early on in the test.
+5 of your incorrect answers were from Number Systems. It would be beneficial for you to revise the concepts of this chapter.
+You spent ~1 minute 45 seconds on solving questions from Linear Equations in Two Variables. This is more than the global average time of 1m 5s. More practice of this chapter can be useful for you.
+
+Let's take a look at your overall coverage for Maths.
+As per our analysis, you should focus on Linear Equations in Two Variables and Lines And Angles as those are your weak points.
+Linear Equations in Two Variables is a high weightage chapter and is relatively easy. If you increase your coverage in that chapter with regular practice, you can improve your overall Maths accuracy by roughly 4%.
+Although Statistics is a low weightage chapter, but it is very easy. With just a little bit of practice, you can master this chapter and improve your accuracy from 53% to 75 to 80%.
