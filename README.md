@@ -1,5 +1,7 @@
 # SpeEdLabs-AV-Report
-Automatically generate AV Report vidoes from text and image inputs.
+Automatically generate AV Report videos from text and image inputs. Report based on student performance data fetched and anlyzed for SpeEdLabs Pvt. Ltd.
+
+Archived on 2023-04-07
 
 ## Requirements:
 * FFmpeg
